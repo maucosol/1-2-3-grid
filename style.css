@@ -1,0 +1,11 @@
+@import 'base.css';
+.grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr); 
+}
+
+
+.grid-columns{
+    outline:1px dotted;
+    padding:1.5em;
+}

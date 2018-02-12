@@ -1,0 +1,9 @@
+.grid-columns{
+    outline:1px dotted;
+    width:33%;
+    padding:1.5em;
+    box-sizing:border-box;
+}
+.grid{
+        display:flex;
+}
